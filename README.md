@@ -4,10 +4,10 @@
     <br>
 <p>
 <p align="center">
-    <a href="https://github.com/huggingface/diffusers/blob/main/LICENSE">
+    <a href="https://github.com/boincai/diffusers/blob/main/LICENSE">
         <img alt="GitHub" src="https://img.shields.io/github/license/huggingface/datasets.svg?color=blue">
     </a>
-    <a href="https://github.com/huggingface/diffusers/releases">
+    <a href="https://github.com/boincai/diffusers/releases">
         <img alt="GitHub release" src="https://img.shields.io/github/release/huggingface/diffusers.svg">
     </a>
     <a href="https://pepy.tech/project/diffusers">
@@ -111,11 +111,11 @@ Check out the [Quickstart](https://huggingface.co/docs/diffusers/quicktour) to l
 ## Contribution
 
 We ❤️  contributions from the open-source community!
-If you want to contribute to this library, please check out our [Contribution guide](https://github.com/huggingface/diffusers/blob/main/CONTRIBUTING.md).
-You can look out for [issues](https://github.com/huggingface/diffusers/issues) you'd like to tackle to contribute to the library.
-- See [Good first issues](https://github.com/huggingface/diffusers/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) for general opportunities to contribute
-- See [New model/pipeline](https://github.com/huggingface/diffusers/issues?q=is%3Aopen+is%3Aissue+label%3A%22New+pipeline%2Fmodel%22) to contribute exciting new diffusion models / diffusion pipelines
-- See [New scheduler](https://github.com/huggingface/diffusers/issues?q=is%3Aopen+is%3Aissue+label%3A%22New+scheduler%22)
+If you want to contribute to this library, please check out our [Contribution guide](https://github.com/boincai/diffusers/blob/main/CONTRIBUTING.md).
+You can look out for [issues](https://github.com/boincai/diffusers/issues) you'd like to tackle to contribute to the library.
+- See [Good first issues](https://github.com/boincai/diffusers/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22) for general opportunities to contribute
+- See [New model/pipeline](https://github.com/boincai/diffusers/issues?q=is%3Aopen+is%3Aissue+label%3A%22New+pipeline%2Fmodel%22) to contribute exciting new diffusion models / diffusion pipelines
+- See [New scheduler](https://github.com/boincai/diffusers/issues?q=is%3Aopen+is%3Aissue+label%3A%22New+scheduler%22)
 
 Also, say 👋 in our public Discord channel <a href="https://discord.gg/G7tWnz98XR"><img alt="Join us on Discord" src="https://img.shields.io/discord/823813159592001537?color=5865F2&logo=discord&logoColor=white"></a>. We discuss the hottest trends about diffusion models, help each other with contributions, personal projects or
 just hang out ☕.
@@ -226,6 +226,6 @@ We also want to thank @heejkoo for the very helpful overview of papers, code and
   year = {2022},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/huggingface/diffusers}}
+  howpublished = {\url{https://github.com/boincai/diffusers}}
 }
 ```
